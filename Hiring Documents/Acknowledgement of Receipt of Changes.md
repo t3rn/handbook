@@ -23,5 +23,4 @@ Signature: ________________________
 ***
 
 
-## [t3rn Employee Handbook **QTR YR**](https://getclef.com/handbook/QTR-YR)
-## [Changes this Quarter](https://getclef.com/handbook/changelog/QTR-YR)
+## [t3rn Employee Handbook](https://github.com/t3rn/handbook)
