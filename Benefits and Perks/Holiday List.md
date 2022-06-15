@@ -1,4 +1,4 @@
-# Clef Observed Holiday List
+# t3rn Observed Holiday List
 
 <table>
   <tr>

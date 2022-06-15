@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This code of conduct applies to community members and Clef team members in all Clef communities online (including but not limited to IRC, support chat, the Clef Community Slack group, Twitter, and Facebook), in the Clef office, and at all events hosted by Clef.
+This code of conduct applies to community members and t3rn team members in all t3rn communities online (including but not limited to IRC, support chat, the t3rn Community Slack group, Twitter, and Facebook), in the t3rn office, and at all events hosted by t3rn.
 
 Our community is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, nationality, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, computing experience, or clothing. Consider that calling attention to differences can feel alienating.
 

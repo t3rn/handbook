@@ -1,4 +1,4 @@
-# Clef Core Values
+# t3rn Core Values
 
 ## Be better today than yesterday.
 
